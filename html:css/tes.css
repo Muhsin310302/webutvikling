@@ -1,0 +1,22 @@
+body{
+    max-width: 500px;
+    text-align: justify;
+    margin-left: 35%;
+    font-family: sans-serif;
+    background-image: ();
+}
+
+div.one{
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+
+}
+div.two{
+    z-index: 2;
+}
+
+img{
+    width: 100%;
+
+}
